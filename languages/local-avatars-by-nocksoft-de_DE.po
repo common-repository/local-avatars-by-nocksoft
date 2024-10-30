@@ -1,0 +1,59 @@
+#. Description of the plugin/theme
+msgid "Adds support for local avatars."
+msgstr "F&uuml;gt Support f&uuml;r lokale Avatare hinzu."
+
+#: local-avatars-by-nocksoft.php:22
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: settings-global.php:36
+msgid "User-specific settings are made in your user profile in WordPress (Users -> Your Profile -> Edit). General settings can be made here."
+msgstr "Benutzerspezifische Einstellungen werden in deinem Benutzerprofil get&auml;tigt (Benutzer -> Dein Profil -> Bearbeiten). Allgemeine Einstellungen k&ouml;nnen hier vorgenommen werden."
+
+#: settings-global.php:39
+msgid "General"
+msgstr "Allgemein"
+
+#: settings-global.php:57
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: settings-global.php:60
+msgid "Redirect all Gravatar requests to local avatars (choose default avatar below)"
+msgstr "Leite alle Gravatar-Anfragen auf lokale Avatare um (w&auml;hle unten einen Standardavatar)"
+
+#: settings-global.php:72
+msgid "Choose Avatar"
+msgstr "Avatar w&auml;hlen"
+
+#: settings-global.php:83
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: settings-user.php:11
+msgid "Here you can make further settings for your avatar or other personal settings. The WordPress administrator can adjust global settings under Settings -> Local Avatars."
+msgstr "Hier kannst du weitere Einstellungen in Bezug auf deinen Avatar oder weitere pers&ouml;nliche Einstellungen vornehmen. Globale Einstellungen kann der WordPress-Administrator unter Einstellungen -> Local Avatars vornehmen."
+
+#: settings-user.php:15
+msgid "Local Avatar"
+msgstr "Lokaler Avatar"
+
+#: settings-user.php:19
+msgid "Use a local avatar instead of Gravatar (choose your avatar below)"
+msgstr "Verwende einen lokalen Avatar an Stelle von Gravatar (w&auml;hle unten deinen Avatar)"
+
+#: settings-user.php:27
+msgid "Avatar URL (e.g. https://yoursite.com/avatar.jpg) -> will be filled automatically"
+msgstr "Avatar URL (z.B. https://deineseite.de/avatar.jpg) -> wird automatisch ausgef&uuml;llt"
+
+#: settings-user.php:29
+msgid "Please select an avatar using the button below (square avatars are recommended). Gravatar may be used as fallback."
+msgstr "W&auml;hle bitte &uuml;ber den Button unten einen Avatar aus (quadratische Avatare sind empfohlen). Als Fallback kann unter Umst&auml;nden Gravatar benutzt werden."
+
+#: settings-user.php:31
+msgid "Choose Avatar"
+msgstr "Avatar w&auml;hlen"
+
+#: settings-user.php:32
+msgid "Remove Avatar"
+msgstr "Avatar entfernen"
